@@ -7,29 +7,29 @@
     https://drive.google.com/drive/folders/1nSAHStpedaGCsO_q_TEd7FiYEOkIQ8CV?usp=sharing
     
 2. 데이터셋 구성, 데이터셋의 출처
-    1. amphora/krx-sample-instructions : krx-sample
+    a.  amphora/krx-sample-instructions : krx-sample
         
         전반적인 금융, 경제 내용을 담고 있기에 사용하였습니다. 
         
-    2. amphora/rewrite-se-quant-alp : krx에서 제공한 rewrite 
+    b. amphora/rewrite-se-quant-alp : krx에서 제공한 rewrite 
         
         블랙숄즈 공식등 다양한 금융 수학적 내용을 담고있기에 사용하였습니다. 
         
-    3. DART 기업 공시 데이터: [Dart](https://dart.fss.or.kr/)
+    c. DART 기업 공시 데이터: [Dart](https://dart.fss.or.kr/)
         
         본선에 들어오면서 빠졌지만 전반적인 재무데이터와 인사이트를 담고 있어 그대로 사용하였습니다. 
         
-    4. 금융 시장 법, 시행세칙 정보: https://law.krx.co.kr/las/main.jsp
+   d. 금융 시장 법, 시행세칙 정보: https://law.krx.co.kr/las/main.jsp
         
         KRX에서 제공하는 금융법과 시행세칙 데이터를 담고 있습니다. 
         
-    5. 일반적인 수학 상식: https://github.com/tunib-ai/KMWP?tab=readme-ov-file
+    e. 일반적인 수학 상식: https://github.com/tunib-ai/KMWP?tab=readme-ov-file
         
         일반적인 수학 상식 데이터. 
         
         https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko
         
-    6. cfa 문제 https://huggingface.co/datasets/ChanceFocus/flare-cfa
+    f. cfa 문제 https://huggingface.co/datasets/ChanceFocus/flare-cfa
   
 
 | 데이터셋 이름                   | 크기    | 토큰 수 (Approx.) | 형식 | 행 수  |
